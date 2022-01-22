@@ -1,1 +1,1 @@
-![Image of Code Person](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.pngfind.com%2Fpngs%2Fm%2F110-1104647_code-png-programming-code-transparent-background-png-download.png&imgrefurl=https%3A%2F%2Fwww.pngfind.com%2Fmpng%2FxihiRi_code-png-programming-code-transparent-background-png-download%2F&tbnid=Hr6ewpUc-pPu8M&vet=12ahUKEwjooO2H4sX1AhWPhv0HHdCLCk8QMygJegUIARDLAQ..i&docid=s3xtfD1X3Os-vM&w=840&h=800&q=codes%20png&hl=tr&ved=2ahUKEwjooO2H4sX1AhWPhv0HHdCLCk8QMygJegUIARDLAQ)
+![Image of Ohrid](https://github.com/bhicdurmaz/markdown-portfolio/blob/main/DSC00688.JPG)
