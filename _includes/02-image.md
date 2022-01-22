@@ -1,1 +1,1 @@
-![Image of Ohrid](https://github.com/bhicdurmaz/markdown-portfolio/blob/main/DSC00688.JPG)
+![Image of a cool friend](https://github.com/bhicdurmaz/markdown-portfolio/blob/main/photo_cool.jpg)
