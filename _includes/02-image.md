@@ -1,1 +1,1 @@
-![Image_of_a_cool_friend](https://github.com/bhicdurmaz/markdown-portfolio/blob/main/photo_cool.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
