@@ -1,5 +1,5 @@
 My favourite programming languages are:
-* Python
-* MATLAB
-* R
-* C++
+* _Python_ 💖
+* _MATLAB_ 
+* _R_
+* _C++_
