@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Gure](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.neredekal.com%2Fgure-kaplicalari-gezilecek-yer-detay%2F&psig=AOvVaw3h9ZEpv1gWW17ypDlOUBrC&ust=1642954780857000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPigjdjhxfUCFQAAAAAdAAAAABAD)
